@@ -1,4 +1,4 @@
-### Hi there 👋, I'm The Vinh
+### Hi there 👋, I'm The Vinh https://profile-summary-for-github.com/user/vinhdt2910
 
 [![Github](https://img.shields.io/github/followers/vinh-dev?label=Follow&style=social)](https://github.com/vinh-dev)
 
@@ -20,7 +20,10 @@
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvinh-dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   
   ![Visitor Count](https://profile-counter.glitch.me/vinh-dev/count.svg)
-  
+### Github Starts
+**Github profile summary** <a href="https://profile-summary-for-github.com/user/vinh-dev">https://profile-summary-for-github.com/user/vinh-dev</a>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhDeveloper" alt="ThanhDeveloper" /></p>
 ### Profile In Github
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinh-dev&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinh-dev&theme=github)
