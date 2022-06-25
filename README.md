@@ -20,11 +20,13 @@
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvinh-dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   
   ![Visitor Count](https://profile-counter.glitch.me/vinh-dev/count.svg)
-### Github Starts
+### Profile In Github
 **Github profile summary** <a href="https://profile-summary-for-github.com/user/vinh-dev">https://profile-summary-for-github.com/user/vinh-dev</a>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhDeveloper" alt="ThanhDeveloper" /></p>
-### Profile In Github
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinh-dev" alt="vinh-dev" />
+</p>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinh-dev&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinh-dev&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinh-dev&theme=github)
@@ -40,7 +42,6 @@
 
 <p>
  
-
 And...
 Let me give more infomation...
   
