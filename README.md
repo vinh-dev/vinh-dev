@@ -28,12 +28,13 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinh-dev&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinh-dev&theme=github&utcOffset=8)
 
-
 ![VinhDT's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinh-dev&show_icons=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinh-dev&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/vinh-dev)
+
 #### My contributor repositories
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vinh-dev&repo=SpecLab_Mitalab&theme=vue)]
-(https://github.com/vinh-dev/SpecLab_Mitalab)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vinh-dev&repo=SpecLab_Mitalab&theme=vue)](https://github.com/vinh-dev/SpecLab_Mitalab)
+
 <p>
  
 
